@@ -9,7 +9,7 @@
 # Projects
 
 > [!TIP]
-> **You can find projects here.**
+> **You can find projects here.**   
 > **Click on its link to see demo.**
 
 | ID | Nmae | Code | Demo link |
