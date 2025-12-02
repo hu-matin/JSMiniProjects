@@ -1,6 +1,7 @@
 # About
 
 **There are some JavaScript projects for improving your JS skills and some Front-End skills.**
+
 </br>
 
 >[!IMPORTANT]
